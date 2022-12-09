@@ -1,9 +1,10 @@
 #include <stdio.h>
 
 /**
- *  print the phrase with proper grammar 
+ * main - print the phrase with proper grammar
+ * 
+ * Return: 0 if no errors
  */
-
 int main(void)
 {
 	printf("with proper grammar, but the outcome is a piece of art,\n");
